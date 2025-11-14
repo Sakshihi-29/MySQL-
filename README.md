@@ -34,7 +34,7 @@ The SQL file inserts 7 sample rows into the table:
 
 | Name     | Roll No | Grade | Marks |
 | -------- | ------- | ----- | ----- |
-| bhawna   | 1       | B     | 55    |
+| bhawna   | 1       | A     | 98    |
 | sakshi   | 2       | A     | 96    |
 | ishant   | 3       | C     | 22    |
 | sameer   | 4       | D     | 12    |
