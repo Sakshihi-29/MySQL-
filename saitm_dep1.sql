@@ -36,7 +36,7 @@ CREATE TABLE `dep1` (
 
 LOCK TABLES `dep1` WRITE;
 /*!40000 ALTER TABLE `dep1` DISABLE KEYS */;
-INSERT INTO `dep1` VALUES ('bhawna',1,'B',55),('sakshi',2,'A',96),('ishant',3,'C',22),('sameer',4,'D',12),('siddhant',5,'B',55),('ananya',6,'A',70),('pappu',7,'F',2);
+INSERT INTO `dep1` VALUES ('bhawna',1,'A',98),('sakshi',2,'A',96),('ishant',3,'C',22),('sameer',4,'D',12),('siddhant',5,'B',55),('ananya',6,'A',70),('pappu',7,'F',2);
 /*!40000 ALTER TABLE `dep1` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
